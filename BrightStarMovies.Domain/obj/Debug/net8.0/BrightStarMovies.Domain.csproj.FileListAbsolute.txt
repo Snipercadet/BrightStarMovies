@@ -1,0 +1,11 @@
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\bin\Debug\net8.0\BrightStarMovies.Domain.deps.json
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\bin\Debug\net8.0\BrightStarMovies.Domain.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\bin\Debug\net8.0\BrightStarMovies.Domain.pdb
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.AssemblyInfoInputs.cache
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.AssemblyInfo.cs
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\refint\BrightStarMovies.Domain.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.pdb
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\ref\BrightStarMovies.Domain.dll
