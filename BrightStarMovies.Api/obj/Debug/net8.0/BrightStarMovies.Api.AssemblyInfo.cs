@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrightStarMovies.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee60e2315fe6a18f509a230c07483f0a828d7b49")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrightStarMovies.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrightStarMovies.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

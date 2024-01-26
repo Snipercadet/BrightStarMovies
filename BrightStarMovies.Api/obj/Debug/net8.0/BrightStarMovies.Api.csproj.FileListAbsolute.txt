@@ -152,3 +152,4 @@ C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Api\bin
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Api\obj\Debug\net8.0\BrightStarMovies.Api.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\refint\BrightStarMovies.Domain.dll
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.pdb
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\ref\BrightStarMovies.Domain.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Domain\obj\Debug\net8.0\BrightStarMovies.Domain.sourcelink.json

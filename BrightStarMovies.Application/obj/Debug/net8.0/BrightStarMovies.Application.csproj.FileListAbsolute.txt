@@ -13,3 +13,4 @@ C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Applica
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Application\obj\Debug\net8.0\refint\BrightStarMovies.Application.dll
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Application\obj\Debug\net8.0\BrightStarMovies.Application.pdb
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Application\obj\Debug\net8.0\ref\BrightStarMovies.Application.dll
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Application\obj\Debug\net8.0\BrightStarMovies.Application.sourcelink.json

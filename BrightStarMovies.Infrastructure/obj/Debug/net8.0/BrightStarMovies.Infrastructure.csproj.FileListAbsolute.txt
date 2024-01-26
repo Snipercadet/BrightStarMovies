@@ -17,3 +17,4 @@ C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Infrast
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Infrastructure\obj\Debug\net8.0\ref\BrightStarMovies.Infrastructure.dll
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Infrastructure\bin\Debug\net8.0\BrightStarMovies.Infrastructure.runtimeconfig.json
 C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Infrastructure\obj\Debug\net8.0\BrightStarMovies.Infrastructure.genruntimeconfig.cache
+C:\Users\SMILE-TECH\Desktop\BrightStar\BrightStarMovies\BrightStarMovies.Infrastructure\obj\Debug\net8.0\BrightStarMovies.Infrastructure.sourcelink.json
